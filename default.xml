@@ -3,7 +3,7 @@
 <manifest>
 
         <remote name="zx_72m"  fetch="https://github.com/marine8888/" review="review.source.android.com" />
-        <default revision="master" remote="origin" />
+        <default revision="master" remote="zx_72m" />
 
 
 </manifest>
